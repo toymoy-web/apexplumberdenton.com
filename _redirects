@@ -1,1 +1,7 @@
-# Intentionally empty. Cloudflare Pages serves slug/index.html natively.
+# Renamed blog posts (v11 localization). Cloudflare Pages serves slug/index.html natively.
+/blog/tankless-descaling-north-texas/ /blog/tankless-descaling-denton-tx/ 301
+/blog/tankless-descaling-north-texas /blog/tankless-descaling-denton-tx/ 301
+/blog/texas-rental-plumbing-repairs/ /blog/rental-plumbing-repairs-denton-tx/ 301
+/blog/texas-rental-plumbing-repairs /blog/rental-plumbing-repairs-denton-tx/ 301
+/blog/north-texas-freeze-pipes/ /blog/freeze-proof-pipes-denton-tx/ 301
+/blog/north-texas-freeze-pipes /blog/freeze-proof-pipes-denton-tx/ 301
