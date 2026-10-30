@@ -289,3 +289,9 @@ main h2 + p,main h3 + p{margin-top:14px}
 .block-prose,.block-list,.block-table,.block-price,.block-faq,.block-map,.block-overview,.block-prep{scroll-margin-top:calc(var(--nav-h) + 16px)}
 /* v11: body copy floor of 16px everywhere in main */
 .process-cell p,.page-meta{font-size:1rem}
+
+/* Footer social profiles */
+.footer-grid .footer-social{display:flex;flex-wrap:wrap;gap:8px;margin:16px 0 0;padding:0}
+.footer-grid .footer-social li{margin:0}
+.footer-grid .footer-social a{display:inline-flex;align-items:center;justify-content:center;width:36px;height:36px;border:1px solid var(--border);border-radius:var(--radius);color:var(--muted);transition:color var(--trans),border-color var(--trans)}
+.footer-grid .footer-social a:hover,.footer-grid .footer-social a:focus-visible{color:var(--white);border-color:var(--cobalt)}
